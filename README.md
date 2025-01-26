@@ -1,4 +1,4 @@
-# Word Frequency Script
+# Tokenized-Word-Counter
 
 ## Overview
 This script processes a folder of `.txt` files to count and analyze word occurrences, with optional tokenization using a T5 model (`google/t5-v1_1-small`). It saves the sorted word counts into a file named `tokenizer_word_counts.txt` for further use, such as training or analysis.
